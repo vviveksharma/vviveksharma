@@ -33,10 +33,13 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 <p align="center">
 <a href="mailto:sharmavivek1709@gmail.com">
-<img  alt="Gmail" width="100" hight="100" src="./assets/gmail.png" style="margin-right: 40px;"/></a>
+<img  alt="Gmail" width="50" hight="50" src="./assets/gmail.png" style="margin-right: 40px;"/></a>
 <a href="https://www.linkedin.com/in/vivek-sharma-207776187/">
-<img alt="LinkedIn" width="100" hight="100" src="./assets/linkedin.png" /> </a>
- </p>
+<img alt="LinkedIn" width="50" hight="50" src="./assets/linkedin.png"  style="margin-right: 40px;"/> </a>
+<a href="https://medium.com/@sharmavivek1709">
+<img alt="Medium" width="50" hight="50" src="./assets/medium.png" /> </a>
+
+</p>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=vviveksharma&hide_border=true&show_icons=true" alt="edisonlee55's github stats">
