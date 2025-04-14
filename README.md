@@ -29,7 +29,7 @@ const vivek = {
 
 ### Contact Me
 
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to watch anime together just ping me 😉.
+💬 Feel free to reach out if you have any questions about the project, need help understanding something, or want to collaborate — always open to connecting!
 
 <p align="center">
 <a href="mailto:sharmavivek1709@gmail.com">
