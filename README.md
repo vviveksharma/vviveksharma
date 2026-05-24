@@ -86,7 +86,3 @@ const vivek = {
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vviveksharma&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" alt="vviveksharma's GitHub stats">
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vviveksharma&theme=transparent&hide_border=true" alt="vviveksharma's streak stats">
-</p>
